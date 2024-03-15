@@ -4,7 +4,9 @@ GRAVATAR ACCOUNT CHECKER V.1
 |=========================| Installation |=========================|
 
 {1}. Clone this repository
+
 {2}. Install the neccessary python requirements (pip install -r requirements.txt)
+
 {3}. Run the main python file
 
 |=========================| Usage |=========================|
